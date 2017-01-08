@@ -1,6 +1,8 @@
 # My First Webpage
 
-#### An exercise in HTML: January 8, 2017
+#### An exercise in HTML
+
+#### January 8, 2017
 
 #### By Paul Scrugham
 
